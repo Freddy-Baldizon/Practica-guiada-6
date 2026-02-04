@@ -1,0 +1,19 @@
+* {
+    text-align: center;
+}
+.nota{
+    font-size: 20px;
+}
+p{
+    color: red;
+}
+#Selector-Demo{
+    color: green;
+}
+
+li[value="4"] {
+    color: blue;
+}
+
+
+

@@ -1,0 +1,17 @@
+h1{
+    color: rgb(200, 150, 200);
+}
+
+.miClase{
+    color: blue;
+}
+#nombre{
+    background-attachment: fixed;
+    color: red;
+    background-color: rgb(30, 255, 0);
+}
+
+[type = password]{
+    border: 2px solid blue;
+    
+}

@@ -1,0 +1,35 @@
+a{
+    text-transform:  uppercase;
+}
+
+footer a{
+    text-transform: lowercase;
+}
+
+a.test{
+    text-transform: lowercase;
+}
+
+body{
+    background-color: antiquewhite;
+}
+
+h1{
+    color: whitesmoke;
+    background-color: darkseagreen;
+    height: 35px;
+    width: 86px;
+    font-family: "Playwrite IN Guides", cursive;
+}
+
+h2{
+    color: #faf8f1;
+    background-color: #c58940 ;
+    height: 50px;
+    width: 500px;
+    font-family: "Playwrite IN Guides", cursive;
+    
+}
+
+
+
